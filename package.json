@@ -1,0 +1,11 @@
+{
+  "name": "etaggen",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Node.js 22 ETag generation and weak/strong comparison (RFC 9110 §8.8).",
+  "scripts": {
+    "test": "node --test",
+    "check": "node check/check.mjs"
+  }
+}
